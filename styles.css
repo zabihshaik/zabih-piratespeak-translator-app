@@ -19,7 +19,7 @@ nav {
     text-align: center;
     color: white;
     padding: 1rem;
-    font-size: large;
+    font-size: larger;
 }
 
 #navigation {
@@ -65,6 +65,7 @@ button {
     padding: 1rem 2rem;
     font-family: 'Dancing Script', cursive;
     font-size: large;
+    font: white;
 }
 
 footer {
