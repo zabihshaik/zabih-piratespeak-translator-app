@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 
 
@@ -10,7 +10,7 @@
 
 body {
     margin: 0px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Dancing Script', cursive;
     color: #333333;
 }
 
@@ -63,7 +63,7 @@ button {
     border: none;
     margin: 1rem 0rem;
     padding: 1rem 2rem;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Dancing Script', cursive;
     font-size: large;
 }
 
