@@ -67,7 +67,10 @@ button {
     font-size: large;
     font: white;
 }
-
+#btn-translate {
+    color: white;
+    
+}
 footer {
     bottom: 0;
     width: 100%;
